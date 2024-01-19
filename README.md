@@ -1,4 +1,4 @@
-# Olá! meu nome é Felipe Sindeaux e esta é minha conta pessoal!
+# Olá! meu nome é Felipe Sindeaux e esta é minha conta de trabalho!
 
 - 🖥️ Desenvolvedor Full Stack na [uMode](https://www.umode.com.br)
 - 🖥️ Veja minha conta pessoal [aqui](https://github.com/felipesindeaux)
