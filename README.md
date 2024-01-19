@@ -3,7 +3,7 @@
 - 🖥️ Desenvolvedor Full Stack na [uMode](https://www.umode.com.br)
 - 🖥️ Veja minha conta pessoal [aqui](https://github.com/felipesindeaux)
 - 🌍 Moro em Brasília - DF
-- 🖥️ Veja o meu [Portfolio](felipesindeaux.vercel.app)
+- 🖥️ Veja o meu [Portfolio](https://felipesindeaux.vercel.app)
 - ✉️ Você pode entrar em contato comigo a partir do [email](mailto:felipesindeaux@outlook.com)
 
 <br>
